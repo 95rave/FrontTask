@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#portfolio {
+  text-align: center;
+  background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+  padding: 14rem 5rem;
+  background-position: center;
+  background-size: cover;
+}
+
+#portfolio h1 {
+  font-size: 88px;
+  color: #212529;
+}
+#portfolio h3 {
+  font-size: 28px;
+  color: #212529;
+  margin-bottom: 60px;
+}
+
+#portfolio a {
+  background-color: #1d809f;
+  padding: 20px 40px;
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+#portfolio a:hover {
+  background-color: #0d656f;
+}
+
+#stylish {
+  text-align: center;
+  padding: 8rem 5rem;
+  background-color: #fff;
+}
+#stylish h2 {
+  color: #212529;
+  font-size: 30px;
+  margin: 0px 0px 8px;
+}
+#stylish p {
+  color: #212529;
+  font-size: 20px;
+  margin: 0px 0px 48px;
+}
+#stylish p a {
+  color: #1d809f;
+  font-size: 20px;
+  margin: 0px 0px 48px;
+}
+
+#stylish .offer {
+  background-color: #212529;
+  padding: 20px 40px;
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+#download {
+  text-align: center;
+  background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+  padding: 18rem 7rem;
+  background-position: center;
+  background-size: cover;
+}
+
+#download h2 {
+  color: #212529;
+  font-size: 56px;
+  margin: 0px 96px 48px;
+}
+#download a {
+  background-color: #1d809f;
+  padding: 20px 40px;
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  border-radius: 5px;
+  transition: 0.3s;
+}
+#download a:hover {
+  background-color: #0d656f;
+}
+
+#footter {
+  text-align: center;
+  padding: 8rem 5rem;
+  background-color: #1d809f;
+}
+
+#footter h2 {
+  color: #fff;
+  font-size: 30px;
+  margin: 0px 25px 30px;
+}
+
+#footter .click {
+  background-color: #f8f9fa;
+  text-decoration: none;
+  color: black;
+  border-radius: 5px;
+  padding: 20px 40px;
+  margin: 0px 24px 0px;
+}
+#footter .look {
+  background-color: #212529;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 5px;
+  padding: 20px 40px;
+}
