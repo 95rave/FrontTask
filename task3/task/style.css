@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+p {
+  font-size: 20px;
+  margin-bottom: 40px;
+}
+h2 {
+  margin-bottom: 8px;
+  font-weight: 500;
+  font-size: 45px;
+}
+#header {
+  overflow: auto;
+  padding: 15px 120px;
+  position: fixed;
+  width: 100%;
+  background-color: #212529;
+}
+#header .right {
+  float: right;
+  padding: 3px 0px;
+}
+#header .left {
+  float: left;
+  padding: 2px 0px;
+  margin-right: 16px;
+  font-size: 1.3rem;
+}
+#header .right a {
+  float: right;
+  margin-left: 20px;
+  color: rgba(255, 255, 255, 0.55);
+}
+#header .left a {
+  float: left;
+  color: #fff;
+}
+#welcome {
+  text-align: center;
+  padding: 150px 0px 100px;
+  width: 100%;
+  background-color: #0d6efd;
+  color: #fff;
+}
+#welcome h1 {
+  font-size: 45px;
+  margin-bottom: 10px;
+}
+
+#welcome a {
+  padding: 15px 25px;
+  font-size: 20px;
+  border-radius: 5px;
+  color: #000;
+  background-color: #f8f9fa;
+  border-color: #f8f9fa;
+}
+#about {
+  padding: 150px 340px;
+  width: 100%;
+}
+
+#about ul {
+  margin-bottom: 1rem;
+  padding-left: 2rem;
+}
+#about ul li {
+  margin-top: 8px;
+}
+#services {
+  padding: 90px 340px;
+  width: 100%;
+  background-color: #f8f9fa;
+}
+#footer {
+  text-align: center;
+  background-color: #212529;
+  color: #fff;
+  padding: 50px 0px;
+}
